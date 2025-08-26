@@ -7,7 +7,7 @@ medical decision-making and potentially save lives.
 
 ------------------------------------------------------------------------
 
-## 📌 Overview
+## Overview
 
 Heart disease remains the **#1 cause of death worldwide**, often going
 undetected until it's too late. Doctors may not always have the time to
@@ -24,7 +24,7 @@ the power of AI.**
 
 ------------------------------------------------------------------------
 
-## 📊 Dataset
+## Dataset
 
 -   **Source:** [UCI Heart Disease
     Dataset](https://archive.ics.uci.edu/ml/datasets/heart+Disease)
@@ -52,7 +52,7 @@ The dataset was cleaned using **pandas**: - Removed missing values.\
 
 ------------------------------------------------------------------------
 
-## 🧠 AI Model
+## AI Model
 
 -   **Algorithm:** Decision Tree Classifier (`scikit-learn`).\
 -   **Process:**
@@ -80,7 +80,7 @@ This ensures that predictions are **transparent and explainable**.
 
 ------------------------------------------------------------------------
 
-## 📈 Results
+## Results
 
 -   **Tested on all 297 patients.**\
 -   Predictions:
@@ -94,7 +94,7 @@ thousands of patients.
 
 ------------------------------------------------------------------------
 
-## 🛠️ Tech Stack
+## 🛠Tech Stack
 
 -   **Programming Language:** Python\
 -   **Libraries:**
@@ -105,7 +105,7 @@ thousands of patients.
 
 ------------------------------------------------------------------------
 
-## 📚 References
+## References
 
 -   Dataset: [UCI Heart Disease
     Dataset](https://archive.ics.uci.edu/ml/datasets/heart+Disease)\
@@ -114,14 +114,14 @@ thousands of patients.
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Author
+##  Author
 
 **Faiaz Ahmed**\
 PreventiScan AI Project -- 2025
 
 ------------------------------------------------------------------------
 
-## 🚀 How to Run
+## How to Run
 
 1.  Clone this repository:
 
@@ -146,7 +146,7 @@ PreventiScan AI Project -- 2025
 
 ------------------------------------------------------------------------
 
-## 🙌 Acknowledgments
+## Acknowledgments
 
 Special thanks to:\
 - **Dr. Larson** and researchers for data contributions.\
