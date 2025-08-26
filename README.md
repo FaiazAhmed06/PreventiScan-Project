@@ -66,7 +66,7 @@ executes decisions in **seconds**.
 
 ------------------------------------------------------------------------
 
-## 🌳 Decision Tree Visualization
+## Decision Tree Visualization
 
 The trained Decision Tree provides a clear, interpretable structure:
 
@@ -94,7 +94,7 @@ thousands of patients.
 
 ------------------------------------------------------------------------
 
-## 🛠Tech Stack
+## Tech Stack
 
 -   **Programming Language:** Python\
 -   **Libraries:**
