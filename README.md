@@ -89,7 +89,7 @@ This ensures that predictions are **transparent and explainable**.
 -   Achieved classification based on medical features such as age,
     cholesterol, and heart rate.
 
-⚡ **Speed:** The system predicts risk in seconds and can scale to
+**Speed:** The system predicts risk in seconds and can scale to
 thousands of patients.
 
 ------------------------------------------------------------------------
